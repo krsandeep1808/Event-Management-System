@@ -1,4 +1,4 @@
-# Event Scheduling API
+# Event Scheduler API
 A RESTful API for event scheduling with collaborative features, version history, and role-based permissions.
 
 ## Features
