@@ -41,8 +41,8 @@ A RESTful API for event scheduling with collaborative features, version history,
 - pip (Python package manager)
 
 ### 2. Clone the repository
-git clone https://github.com/yourusername/event-scheduler-api.git
-cd event-scheduler-api
+git clone https://github.com/krsandeep1808/Event-Management-System.git
+cd Event-Scheduler-API
 
 
 ### 3. Set up virtual environment
